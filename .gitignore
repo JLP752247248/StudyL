@@ -1,0 +1,8 @@
+# Project exclude paths
+/Hadoop/target/
+/J2EEReview/SpringBoot/AuthModule/target/
+/J2EEReview/SpringBoot/SpringEureka/target/
+/J2EEReview/SpringBoot/target/
+/J2EEReview/target/
+/JavaReview/target/
+/Spark/target/

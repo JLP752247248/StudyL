@@ -1,0 +1,44 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ôĞ¾Â
+E
+java:S3740"/Provide the parametrized type for this generic.(ğĞŸõ
+E
+java:S37403"/Provide the parametrized type for this generic.(ŠüÃò
+D
+java:S3740@"/Provide the parametrized type for this generic.(‘Ó©M
+J
+java:S3740J"/Provide the parametrized type for this generic.(øÍøÿÿÿÿ
+E
+java:S3740_"/Provide the parametrized type for this generic.(»‡Ëù
+E
+java:S3740g"/Provide the parametrized type for this generic.(Û°çá
+J
+java:S3740k"/Provide the parametrized type for this generic.(á¥Ó£ÿÿÿÿÿ
+E
+java:S3740o"/Provide the parametrized type for this generic.(Ûİ‡â
+E
+java:S3740†"/Provide the parametrized type for this generic.(‘Ó©M
+œ
+java:S1186c"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ş‚ÄÔıÿÿÿÿ
+C
+java:S1172R"(Remove this unused method parameter "a".(ŞØÄ÷ùÿÿÿÿ
+>
+java:S1172V"(Remove this unused method parameter "o".(ÌÊ‰ã
+C
+java:S1172["(Remove this unused method parameter "o".(İî‹âùÿÿÿÿ
+>
+java:S1172_"(Remove this unused method parameter "c".(»‡Ëù
+>
+java:S1172g"(Remove this unused method parameter "c".(Û°çá
+C
+java:S1172k"(Remove this unused method parameter "c".(á¥Ó£ÿÿÿÿÿ
+>
+java:S1172o"(Remove this unused method parameter "c".(Ûİ‡â
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(Ğ¹µøÿÿÿÿ
+O	java:S106›"9Replace this use of System.out or System.err by a logger.(ô‹Å 
+T	java:S106œ"9Replace this use of System.out or System.err by a logger.(ÌÑİøÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ô© ®øÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ïÉ½›üÿÿÿÿ
+S
+java:S4977"=Rename "T" which hides a type parameter from the outer scope.(Ëãñ”

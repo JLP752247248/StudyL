@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="JavaReview" />
+        <module name="SpringBoot" />
+        <module name="Hadoop" />
+        <module name="Spark" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Hadoop" target="1.8" />
+      <module name="J2EEReview" target="1.8" />
+      <module name="JavaReview" target="1.8" />
+      <module name="Spark" target="1.8" />
+      <module name="SpringBoot" target="1.8" />
+      <module name="Study" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

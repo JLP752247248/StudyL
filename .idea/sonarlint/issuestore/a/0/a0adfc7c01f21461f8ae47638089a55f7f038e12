@@ -1,0 +1,19 @@
+
+F
+java:S3740’"/Provide the parametrized type for this generic.(‰ÌÑŒ
+K
+java:S3740˜"/Provide the parametrized type for this generic.(«ñ•øÿÿÿÿ
+3
+java:S2386"Make this member "protected".(Ğ¼§ 
+W
+java:S1854“"@Remove this useless assignment to local variable "indexRequest".(İÙ’
+N
+java:S1854’"7Remove this useless assignment to local variable "map".(‰ÌÑŒ
+E
+java:S2140š")Use "java.util.Random.nextInt()" instead.(î£úÿÿÿÿ
+@
+java:S2140")Use "java.util.Random.nextInt()" instead.(…£Ï
+f
+java:S1104"PMake tags a static final constant or non-public and provide accessors if needed.(Ğ¼§ 
+@
+java:S1444"*Make this "public static tags" field final(Ğ¼§ 

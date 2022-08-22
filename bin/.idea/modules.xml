@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hadoop/Hadoop.iml" filepath="$PROJECT_DIR$/Hadoop/Hadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2EEReview/J2EEReview.iml" filepath="$PROJECT_DIR$/J2EEReview/J2EEReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaReview/JavaReview.iml" filepath="$PROJECT_DIR$/JavaReview/JavaReview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spark/Spark.iml" filepath="$PROJECT_DIR$/Spark/Spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/J2EEReview/SpringBoot/SpringBoot.iml" filepath="$PROJECT_DIR$/J2EEReview/SpringBoot/SpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Study.iml" filepath="$PROJECT_DIR$/.idea/Study.iml" />
+    </modules>
+  </component>
+</project>

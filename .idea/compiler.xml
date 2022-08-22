@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <wildcardResourcePatterns>
+      <entry name="*.xml" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SpringBoot" />
+        <module name="AuthModule" />
+        <module name="JavaReview" />
+        <module name="SpringEureka" />
+        <module name="Hadoop" />
+        <module name="Spark" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AuthModule" target="8" />
+      <module name="Hadoop" target="8" />
+      <module name="J2EEReview" target="8" />
+      <module name="JavaReview" target="1.5" />
+      <module name="Spark" target="8" />
+      <module name="SpringBoot" target="8" />
+      <module name="SpringEureka" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AuthModule" options="" />
+      <module name="Hadoop" options="" />
+      <module name="JavaReview" options="" />
+      <module name="Spark" options="" />
+      <module name="SpringEureka" options="" />
+    </option>
+  </component>
+</project>
