@@ -9,6 +9,7 @@
 		<module>AuthModule</module>
 		<module>SpringEureka</module>
 	</modules>
+  <packaging>pom</packaging>
 	<parent>
 		<groupId>com.ColdAir</groupId>
 		<artifactId>J2EEReview</artifactId>
